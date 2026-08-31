@@ -45,13 +45,13 @@ Dataset berasal dari penelitian terpublikasi di repositori **Dryad**.
 ## 📊 Data Visualizations
 
 ### 1. Total Biomass Interaction (Light × Water)
-![Biomass Chart](tamarind_biomass_chart.png)
+![Biomass Chart](Biomassa.PNG)
 
 ### 2. Plant Stem Height Comparison (Height Final)
-![Stem Height Chart](tamarind_height_chart.png)
+![Stem Height Chart](Tinggi.PNG)
 
 ### 3. Biomass Allocation (Stem vs Leaf vs Root)
-![Biomass Allocation Chart](biomass_allocation_stacked.png)
+![Biomass Allocation Chart](Alokasi.PNG)
 
 ---
 
